@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Github-@lyc280705-informational.svg)](https://github.com/lyc280705)
 - 👋 Hi, I’m @lyc280705
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
