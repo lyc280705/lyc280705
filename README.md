@@ -4,7 +4,7 @@
 **My Blog:**   [![GitHub](https://img.shields.io/badge/GitHubPages-%20lyc280705-informational?logo=githubpages&logoColor=githubpages.svg)](https://lyc280705.github.io)
 - 👋 Hi, I’m [@lyc280705](https://github.com/lyc280705)
 - 👀 I’m interested in machine learning
-- 🎉 I'm familiar with ![Langchain](https://img.shields.io/badge/Langchain-%231C3C3C?logo=langchain)
+- 🎉 I'm familiar with [![Langchain](https://img.shields.io/badge/Langchain-%231C3C3C?logo=langchain)](https://github.com/langchain-ai/langchain)
 - 🌱 I’m currently learning Reinforcement Learning
   
 <!---
